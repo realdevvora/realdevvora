@@ -14,6 +14,7 @@ This project was made using Django.
 I am currently working on the following projects:
 - [Course Evaluations](https://github.com/realdevvora/course-evaluations)
 - [Tail Trackr](https://github.com/utmgdsc/TAIL-Trackr) Animal identification and pairing with owners, or individuals who want to adopt.
+
 Be sure to check them out!
 <!---
 realdevvora/realdevvora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

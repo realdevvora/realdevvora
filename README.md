@@ -15,7 +15,7 @@ Animal identification and pairing with owners, or individuals who want to adopt.
 
 I am currently working on the following projects:
 - [AirBnB Clone](https://github.com/realdevvora/AirBnB-Clone)
-- [Personal Website] (https://github.com/realdevvora/realdevvora.github.io)
+- [Personal Website](https://github.com/realdevvora/realdevvora.github.io)
 
 Be sure to check them out!
 <!---

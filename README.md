@@ -10,10 +10,12 @@ I used the MERN stack to create this project.
 This was a course project, where my group and I used Java and Android Studio.
 - [Playstyle Analysis](https://github.com/realdevvora/Playstyle_Analysis)
 This project was made using Django.
+- [Tail Trackr](https://github.com/utmgdsc/TAIL-Trackr)
+Animal identification and pairing with owners, or individuals who want to adopt.
 
 I am currently working on the following projects:
-- [Course Evaluations](https://github.com/realdevvora/course-evaluations)
-- [Tail Trackr](https://github.com/utmgdsc/TAIL-Trackr) Animal identification and pairing with owners, or individuals who want to adopt.
+- [AirBnB Clone](https://github.com/realdevvora/AirBnB-Clone)
+- [Personal Website] (https://github.com/realdevvora/realdevvora.github.io)
 
 Be sure to check them out!
 <!---

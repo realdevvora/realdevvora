@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realdevvora
-- 👀 I’m interested in Full-stack Web Development!
-- 🌱 I’m currently learning React.js, Node.js, Flask, PostgreSQL.
+- 👀 I’m interested in full-stack web development, and data engineering
+- 🌱 I’m currently learning Next.js, Docker, and applying testing strategies.
 
 My more notable projects are:
 

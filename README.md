@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @realdevvora
-- 👀 I’m interested in full-stack web development, and data engineering
+- 👀 I’m interested in full-stack web development and data engineering
 - 🌱 I’m currently learning Next.js, Docker, and applying testing strategies.
 
 My more notable projects are:

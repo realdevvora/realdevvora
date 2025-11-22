@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realdevvora
-- 👀 I’m interested in full-stack web development and data engineering
-- 🌱 I’m currently learning Next.js, Docker, and applying testing strategies.
+- 👀 I’m interested in full-stack development, and distributed systems
+- 🌱 I’m currently building agentic bots and integrating them into microservices
 
 My more notable projects are:
 
@@ -12,10 +12,6 @@ This was a course project, where my group and I used Java and Android Studio.
 This project was made using Django.
 - [Tail Trackr](https://github.com/utmgdsc/TAIL-Trackr)
 Animal identification and pairing with owners, or individuals who want to adopt.
-
-I am currently working on the following projects:
-- [AirBnB Clone](https://github.com/realdevvora/AirBnB-Clone)
-- [Personal Website](https://github.com/realdevvora/realdevvora.github.io)
 
 Be sure to check them out!
 <!---
